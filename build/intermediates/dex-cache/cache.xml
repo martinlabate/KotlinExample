@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d64d4f2ae83132e5fcea8545c7230f31ca9d1110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_10a74e89a53ad7f4240f1e5b95bc61a92e15c543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/47dc6bfb9eec9e6d90cb5da91f60439cbf1148c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acb24495ae80e80117d31e2fcaa0556fcf72f1e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/df54fe42b6704c0309b18a015fb72bb5755fbfad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a6bf50af64133f3471e9504ba61c765df017e6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/14fc72c169513a55b0616a9494840985143f572b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccba0352cda4d8b38e2b23de691e136a5b1f8ecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/7fc3ab6e01129c72c67c0a37267f96fba4e01d4d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f77cc813eef4d91fc3c78ab8e6766fe927b3180d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_74a4079af5064836c63325963c885168aaef0c06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50624cdfbb194ecdae759f4b5095e0a79fc122ce">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_277fd4d36f9d44d1112ad5db7c34074c0f4c60b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/42e22ffee93a5db51c79130cbb718c59b671eb9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a6e75914c88602117a9ddb6b4fae3cd4bb8857e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/5a8f26e747c5fd208c7b1d65a67284a2ab0ee3cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_797ff38c4fb2c4c70594f24fafd9c044725b24bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_dff215609eef5984be214f3b2466bb4f38cb5260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/b1c432bd4cdda197dc3be014eeb780d530c98f77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59f10879fa5ef5e1cd5fde74cad4106147358189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.4-3/e8c9cbfa33a3015fcc7581fe6a60a355bf7cd92c/kotlin-stdlib-jre7-1.1.4-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e8c9cbfa33a3015fcc7581fe6a60a355bf7cd92c">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.4-3_8e9851aa79805975d21c7521ca27592c890fb327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/5c8b51312a0c31c1f104e1f1e503bd0a8057dd33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cd9f2fa8f9d6a65f19e2cdcbaa81eb13da33558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4-3/7f07ece855a7d40d5ef430218593e92282ae2a74/kotlin-stdlib-1.1.4-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7f07ece855a7d40d5ef430218593e92282ae2a74">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.4-3_5202146f6c7dc3f8eef4b4f87e11f252cd508179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/ec0e5a80cbad6ce3d5ec89b3022bae7cf07c3d26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_983d98c8de90bcea4f5b0133d2faeaf51f41cd77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mlabate/.android/build-cache/3edb8cb423fd172cfc04ea21cf986c4aafc07a48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/mlabate/Documents/AndroidProjects/KotlinExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_262eb06cdf693b2d97b0313d31aecca0b98e417e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mlabate.kotlinexample.Test"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/mostrar_woloxres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Woloxers" />
+
+    <TextView
+        android:id="@+id/lista_woloxers"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:id="@+id/filrar_woloxres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Filtrar Woloxers" />
+
+    <TextView
+        android:id="@+id/lista_woloxers_filtrados"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+
+</LinearLayout>
